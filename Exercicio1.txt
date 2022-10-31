@@ -1,0 +1,94 @@
+1) Sejam as proposições p: Está frio e q:Está chovendo. Faça a tradução  para a linguagem corrente das seguintes proposições:
+a) ~p
+Não está frio
+
+b) p^q
+Está frio e está chovendo
+
+c)~p^q
+Não está frio e está chovendo
+
+d)p^~q
+Está frio e não está chovendo
+
+e)~p^~q
+Não está frio  e não está chovendo
+
+2) Sejam as proposições p: Claudio fala inglês e q:Claudio fala alemão. Faça a tradução para a linguagem corrente das seguintes proposições:
+a)~p
+Claúdio não fala inglês
+
+b)p^q
+Cláudio fala inglês e Claudio fala alemão
+
+c) ~p^q
+Claudio não fala inglês e Claudio fala alemão
+
+d)p^~q
+Claudio fala inglês e Claudio não fala alemao
+
+e)~p^~q
+Claudio não fala inglês e Claudio não fala alemão
+
+3)Sejam as proposições p:Marcos é alto q: Marcos é elegante. Faça a tradução para a linguagem simbólica das seguintes proposições
+a)Marcos é alto e elegante
+p^q
+
+b)Marcos é alto, mas não é elegante
+p~q
+
+c)Marcos não é alto nem elegante
+~p^~q
+
+4)Sejam p a proposição "os meninos jogam" e q a proposição "o cão ladra". Traduzir para a linguagem corrente as seguintes proposições
+a)~p
+Os meninos não jogam
+
+b)~q
+O cão não ladra
+
+c)p^q
+os meninos jogam e o cão ladra
+
+d)p^~q
+os meninos jogam e o cão não ladra
+
+e)p->q
+se os meninos jogam, então o cão ladra
+
+f)p <--> q
+Se e somente se os meninos jogam, então o cão ladra
+
+g)~p <--> ~q
+ se e somente se os meninos não jogam então o cão não ladra
+
+5)Traduzir para a linguagem simbólica as seguintes proposições
+a) Os preços não sobem
+~p
+
+b)Pedro não é justo
+~p
+
+c)Os preços sobem e Pedro é justo
+p^q
+
+d)Os preços sobem ou Carlos é asseado
+pvq
+
+e)Carlos não é asseado ou Pedro é justo.
+~pvq
+
+f)Se os preços sobem, então a oferta cai
+p-->q
+
+g)Se Pedro não é justo, então os preços sobem
+~p --> q
+
+h)A oferta não cai e Pedro é justo se e somente se os preços sobem
+~p^q<-->r
+
+i)Se os preços sobem e a oferta cai, então Carlos é asseado ou Pedro é justo.
+(p^q)-->(r v s)
+
+
+ 
